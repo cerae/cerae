@@ -18,10 +18,10 @@
 #   class: icon-soundcloud
 #   title: ""
 
-# - name: Pinterest
-#   url: http://www.pinterest.com/
-#   class: icon-pinterest
-#   title: ""
+- name: Pinterest
+  url: http://www.pinterest.com.au/ceraebird
+  class: icon-pinterest
+  title: "Pintrest"
 
 # - name: Xing
 #   url: https://www.xing.com/profile/
