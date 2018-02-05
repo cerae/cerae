@@ -21,7 +21,9 @@ credits: '<p>Created with &hearts; by Rene Wooller, Cerae Mitchell based off <a 
 
 # Main author of the website
 # See > authors.yml
-author: "Rene Wooller, Cerae Mitchell, Phlow"
+author:
+  - rene
+  - cerae
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
