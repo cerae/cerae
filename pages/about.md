@@ -9,7 +9,7 @@ header:
 ---
 
 # About Me
-Hello, thanks for visiting :-) I’m Cerae. It’s a little strange trying to summarise who I am into a few short paragraphs. Check out my [blog]({{ site.url }}{{ site.baseurl }}/blog} for more about me, my life stories/experiences and insights but for now….
+Hello, thanks for visiting :-) I’m Cerae. It’s a little strange trying to summarise who I am into a few short paragraphs. Check out my [blog]({{ site.url }}{{ site.baseurl }}/blog) for more about me, my life stories/experiences and insights but for now….
 
 I’m Mum to two young girls (ages 2 & 4) who make me laugh, cry, dance, sing, cook, clean, create, caffeinate, plan, play and love like never before. They rock my world but don’t define me completely; I also love to conduct workshops, run my business, practice yoga, geek out on essential oils & all their uses, read books, write, grow plants, connect with friends, create things, travel, learn and grow.
  
