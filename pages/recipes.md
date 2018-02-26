@@ -5,7 +5,7 @@ subheadline: "delicious, entertaining and housifying recipes"
 teaser: ""
 permalink: "/recipes/"
 header:
-   image_fullwidth: "header_roadmap_2.jpg"
+   image_fullwidth: "Recipes_Header.jpg"
 ---
 
 ## Household Cleaning 

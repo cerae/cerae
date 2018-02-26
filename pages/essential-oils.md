@@ -5,7 +5,7 @@ title: "Essential Oils"
 subheadline: "My journey into oils"
 teaser: "Explains my ongoing love affair with essential oils"
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "Essential_Oils_Header.jpg"
 permalink: "/essential-oils/"
 ---
 
