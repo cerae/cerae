@@ -5,7 +5,7 @@ subheadline: ""
 teaser: "my story"
 permalink: "/about/"
 header:
-   image_fullwidth: "header_roadmap_2.jpg"
+   image_fullwidth: "About_Header.jpg"
 ---
 
 Hello, thanks for visiting :-) I’m Cerae. It’s a little strange trying to summarise who I am into a few short paragraphs. Check out my [blog]({{ site.url }}{{ site.baseurl }}/blog) for more about me, my life stories/experiences and insights but for now….
