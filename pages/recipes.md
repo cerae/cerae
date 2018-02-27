@@ -8,6 +8,7 @@ header:
    image_fullwidth: "Recipes_Header.jpg"
 ---
 
+Ask me about these handy recipes!
 ## Household Cleaning 
 -       Wipes 
 - Stinky Be Gone
@@ -29,6 +30,4 @@ header:
 - Beard Balm 
 - Gardener’s Hand Cream
 - Deodorant 
-
-## Roller Bottles 
 
