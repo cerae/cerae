@@ -18,10 +18,6 @@
   url: "/blog/"
   side: left
 
-- title: "Create"
-  url: "/create/"
-  side: left
-
 - title: "Contact"
   url: "/contact/"
   side: left
