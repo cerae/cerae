@@ -30,10 +30,10 @@ widget2:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-# callforaction:
-#   url: ''
-#   text: ''
-#   style: alert
+callforaction:
+  url: http://www.mydoterra.com/ceraemitchell
+  text: Shop for oils!›
+  style: alert
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
