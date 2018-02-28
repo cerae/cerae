@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: 
-teaser: "I can't believe I'm writing this"
+# teaser: 
 meta_teaser: ""
 breadcrumb: true
 categories:
@@ -11,11 +11,7 @@ tags:
     - content
     - post
     - post format
-image:
-     title: IMG_0257.JPG
-     caption: Me in my short shorts.
-     caption_url: 
-author: Cerae
+
 ---
 I can’t believe that I’m posting this. For my whole life, I’ve been so self-conscious about my legs - especially my THIGHS. I’ve always worn long shorts in summer & never bared my legs above the knee unless I’m wearing tights/stockings. I’ve wasted years of my life with low self-worth and poor body-image. I’ve missed out on experiences and hidden myself away in (what now seems ridiculous) fear of rejection or ridicule. 
 
@@ -34,3 +30,9 @@ Essential Oils: I regularly use Bergamot in my diffuser or purefumes. Bergamot i
 So here I am, wearing my short shorts that I got from Sparrow & Co at the markets last month. Aren’t they cute? They’re made from bits and pieces of vintage fabric and there’s even a doily on the back pocket (I tried but couldn’t master the art of getting a photo of my bum!).
 
 I say embrace your imperfections and be confident in yourself! We’re all unique and beautiful in our own ways. Oh and if in doubt, use an essential oil! 
+
+image:
+     title: IMG_0257.JPG
+     caption: Me in my short shorts.
+     caption_url: 
+author: Cerae
