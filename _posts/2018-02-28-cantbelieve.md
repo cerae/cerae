@@ -15,7 +15,7 @@ tags:
 author: Cerae
 ---
 
-<img src="/cerae/images/in-my-shorts.jpg" alt="In My Shorts">
+<img src="/images/in-my-shorts.jpg" alt="In My Shorts">
 
 I can’t believe that I’m posting this. For my whole life, I’ve been so self-conscious about my legs - especially my THIGHS. I’ve always worn long shorts in summer & never bared my legs above the knee unless I’m wearing tights/stockings. I’ve wasted years of my life with low self-worth and poor body-image. I’ve missed out on experiences and hidden myself away in (what now seems ridiculous) fear of rejection or ridicule. 
 
