@@ -49,6 +49,7 @@ There's the option to buy through the Loyalty Rewards Program (monthly ordering,
 Go to my website:
 
 •	Go to <a href="http://www.mydoterra.com/ceraemitchell" target="_blank">My doTERRA</a> 
+
 •	Click “Join & Save”
 
 •	Select your language & location delivery options
@@ -63,5 +64,4 @@ Go to my website:
 
 •	Checkout.
 
-•	In Facebook, request to join my private group: “Cerae’s Members Only Oily Tribe” 
-
+•	In Facebook, request to join my private group: <a href="https://www.facebook.com/groups/150651335486570/" target="_blank">Cerae’s Members Only Oily Tribe</a> 
