@@ -51,10 +51,16 @@ Go to my website:
 •	Click “Join & Save”
 
 •	Select your language & location delivery options
+
 •	Select Wellness Advocate 
+
 •	Enter your information
+
 •	Check my referral ID# 3515538
+
 •	Choose a kit or choose “Introductory Enrolment Packet” & any products you wish. 
+
 •	Checkout.
+
 •	In Facebook, request to join my private group: “Cerae’s Members Only Oily Tribe” 
 
