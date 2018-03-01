@@ -31,7 +31,26 @@ My core passion has always been to do with protecting and improving our environm
 
 I have always been interested in and have used natural therapies for my and my family’s health concerns. doTERRA essential oils are the purest on the planet and so much care has been taken to ensure they contain absolutely no contaminants or synthetic fillers. They are 100% pure. In fact, our oils are so pure that you can go to www.sourcetoyou.com and type in the batch number (from the base of one of our bottles) and receive a full report of everything that is in that bottle. 
 
-It’s so comforting to know that I have a natural first aid kit to deal with all sorts of ailments. I don’t advocate avoiding conventional medicine all together by any means. But I am empowered to be able to try and treat ailments at home. Often they are cured naturally and we don’t require any further treatment or medicines (and their not so nice side effects). 
+It’s so comforting to know that I have a natural first aid kit to deal with all sorts of ailments. I don’t advocate avoiding conventional medicine all together by any means. But I am empowered to be able to try and treat common ailments at home. Often they are cured naturally and we don’t require any further treatment or medicines (and their not so nice side effects). 
 
 # Co Impact Sourcing
-The oils are ethically sourced from all over the world where the plants are native to using the best farming, collection, harvesting and distilling processes. 
+The oils are ethically sourced from all over the world where the plants are native to using the best farming, collection, harvesting and distilling processes. The growers/farmers/pickers & distillers are all paid a fair wage. 
+
+# How do I purchase doTERRA Essential Oils?
+The best option is to get your own wholesale account FREE with any Reduced Price Starter Kit; OR choose $35 option & pick your products. 
+You can choose to renew annually for $25 & receive a FREE 15mL bottle of Peppermint oil ($25.50 wholesale value) with renewal! 
+There's the option to buy through the Loyalty Rewards Program (monthly ordering, 1PV minimum) to also receive 10-30% additional back in product credits to be redeemed for FREE products, plus other perks! 
+
+
+# To get the best price… 
+Go to my website:
+•	Go to www.mydoterra.com/ceraemitchell
+•	Click “Join & Save”
+•	Select your language & location delivery options
+•	Select Wellness Advocate 
+•	Enter your information
+•	Check my referral ID# 3515538
+•	Choose a kit or choose “Introductory Enrolment Packet” & any products you wish. 
+•	Checkout.
+•	In Facebook, request to join my private group: “Cerae’s Members Only Oily Tribe” 
+
