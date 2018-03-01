@@ -46,7 +46,7 @@ There's the option to buy through the Loyalty Rewards Program (monthly ordering,
 
 Go to my website:
 
-•	Go to www.mydoterra.com/ceraemitchell
+•	Go to http://www.mydoterra.com/ceraemitchell
 
 •	Click “Join & Save”
 
