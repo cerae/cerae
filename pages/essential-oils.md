@@ -43,9 +43,13 @@ There's the option to buy through the Loyalty Rewards Program (monthly ordering,
 
 
 # To get the best price… 
+
 Go to my website:
+
 •	Go to www.mydoterra.com/ceraemitchell
+
 •	Click “Join & Save”
+
 •	Select your language & location delivery options
 •	Select Wellness Advocate 
 •	Enter your information
