@@ -20,5 +20,5 @@ Throughout our sailing adventure, my hubby and I kept brainstorming ideas for wh
  
 Well, there you go. Thank you for reading this far. If you would like to find out more about my business or start your own, please get in touch anytime. If you'd like to buy some essential oils, head on over to my essential oils page or get in touch anytime. xx
 
-![](/images/About_Image_CandZ.png), ![](/images/About_Image_Sailbirds.jpg)(/images/About_Image_Anima.png) {:class="img-responsive"}
+![](/images/About_Image_CandZ.png), ![](/images/About_Image_Sailbirds.jpg), ![](/images/About_Image_Anima.png) {:class="img-responsive"}
 
