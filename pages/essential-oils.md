@@ -33,8 +33,10 @@ I have always been interested in and have used natural therapies for my and my f
 
 It’s so comforting to know that I have a natural first aid kit to deal with all sorts of ailments. I don’t advocate avoiding conventional medicine all together by any means. But I am empowered to be able to try and treat common ailments at home. Often they are cured naturally and we don’t require any further treatment or medicines (and their not so nice side effects). 
 
-# Co Impact Sourcing
-The oils are ethically sourced from all over the world where the plants are native to using the best farming, collection, harvesting and distilling processes. The growers/farmers/pickers & distillers are all paid a fair wage. 
+# Co Impact Sourcing & Healing Hands 
+Co-Impact Sourcing is an initiative that seeks to develop long-term, mutually beneficial supplier partnerships while creating sustainable jobs and providing reliable income in underdeveloped areas. doTERRA is committed to the ethical treatment of its suppliers by providing on-time payments at fair prices. Growers and harvesters are encouraged to form cooperative groups to share collective benefits and bargaining power while improving skills and capacity. The oils are sourced from all over the world where the plants are native to using the best farming, collection, harvesting and distilling processes. 
+
+doTERRA’s charitable organization, Healing Hands, provides funding and resources to create community-based, social-impact projects to improve lives in the larger communities where oils are sourced. Past projects include building or sponsoring existing medical clinics, installing drinking water and irrigation systems, building schools, and providing other educational resources such as vocational training programs.
 
 # How do I purchase doTERRA Essential Oils?
 The best option is to get your own wholesale account FREE with any Reduced Price Starter Kit; OR choose $35 option & pick your products. 
