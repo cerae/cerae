@@ -29,7 +29,7 @@ I knew that I wanted to share them with everyone so we can benefit from these gi
 
 My core passion has always been to do with protecting and improving our environment and our world. Can you imagine how excited I was when I found doTERRA and learnt that they are ethical and source their oils sustainably? Yes!! 
 
-I have always been interested in and have used natural therapies for my and my family’s health concerns. doTERRA essential oils are the purest on the planet and so much care has been taken to ensure they contain absolutely no contaminants or synthetic fillers. They are 100% pure. In fact, our oils are so pure that you can go to www.sourcetoyou.com and type in the batch number (from the base of one of our bottles) and receive a full report of everything that is in that bottle. 
+I have always been interested in and have used natural therapies for my and my family’s health concerns. doTERRA essential oils are the purest on the planet and so much care has been taken to ensure they contain absolutely no contaminants or synthetic fillers. They are 100% pure. In fact, our oils are so pure that you can go to <a href="http://www.sourcetoyou.com/" target="_blank">www.sourcetoyou.com</a>  and type in the batch number (from the base of one of our bottles) and receive a full report of everything that is in that bottle. 
 
 It’s so comforting to know that I have a natural first aid kit to deal with all sorts of ailments. I don’t advocate avoiding conventional medicine all together by any means. But I am empowered to be able to try and treat common ailments at home. Often they are cured naturally and we don’t require any further treatment or medicines (and their not so nice side effects). 
 
@@ -48,8 +48,7 @@ There's the option to buy through the Loyalty Rewards Program (monthly ordering,
 
 Go to my website:
 
-•	Go to http://www.mydoterra.com/ceraemitchell
-
+•	Go to <a href="http://www.mydoterra.com/ceraemitchell" target="_blank">My doTERRA</a> 
 •	Click “Join & Save”
 
 •	Select your language & location delivery options
