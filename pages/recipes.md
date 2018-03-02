@@ -52,14 +52,6 @@ In a glass spray bottle fill it up 50/50 with filtered water and white vinegar. 
 Top up with filtered water and you're done!
 Just ensure to use foaming pumps - my Mum tried it with a normal pump and it didn't work.
 
-## Yummy Food
-- Bliss Balls
-- Raw Chocolate
-- Flavoured Kombucha 
-- Sauerkraut 
-- Milk Kefir
-- Dukkah 
-
 ## Self Care
 - DIY Lip Balm
 
@@ -76,10 +68,68 @@ You could try other Essential Oil combinations such as Orange and Cinnamon, OnGu
 How to make it:
 Measure out the Beeswax, Shea Butter and Coconut oil into a stainless steel or Pyrex bowl. Place this bowl over a small saucepan of boiling water (being careful to not let any of the water into your bowl). Stir occasionally and then remove from heat once everything has melted together nicely. Add your essential oils and stir them through. Promptly pour the mixture into your empty lip balm bottles or tubes and then let them rest on your bench until they set before putting on the lids. 
 
+- Foot Sauce (heel balm)
+This one is so easy and just so lovely and nourishing to use every night before sleep. I'm sticking with my accidental name of Foot Sauce. This oily life is so fun and makes me laugh all the time!
 
+Makes about 200ml 
+1/4 Cup Shea Butter
+1/4 Cup Coconut Oil
+3 Tablespoons Beeswax 
+1/4 Cup extra oil (I don't recommend using Olive Oil as it's too overpowering. Rosehip, Hemp Seed or Jojoba are great). 
+10 drops Essential Oil (I like 2-3 drops each of Myrrh, Vetiver, Whisper - the Blend for Women and Forgive - the Renewing Blend). Other ideas are Peppermint, Tea Tree, Lavender, Lemongrass and Sandalwood or any combination that takes your fancy! 
 
-- Foot Sauce
-- Beard Balm 
-- Gardener’s Hand Cream
+Melt everything but the oils together in a double boiler on the stove. 
+Remove from heat and let cool slightly before adding the essential oils. 
+Mix and pour directly into the tubs/jars you want to store your balm/sauce in. Due to the beeswax, this mixture starts to set quite quickly.
+
+- Beard Balm
+Makes about 100ml
+4 teaspoons Beeswax 
+2 or 3 teaspoons Shea Butter 
+6 teaspoons Fractionated Coconut oil 
+(1 teaspoon Vitamin E oil optional)
+4 drops Cedar Wood 
+4 drops Tea Tree
+4 drops Frankincense 
+4 drops Rosemary
+
+Melt all ingredients bar the oils in a glass/stainless bowl over a saucepan of boiling water. Once melted, remove from heat and add oils. Pour into a jar or tin and allow to set (doesn't take very long!).
+
+The Cedar Wood smells amazing. Very woody and earthy. I gave this to my Dad for his 65th birthday & he was a little unsure of what Beard Balm is or how to use it but I'm hoping he'll enjoy it!! It would make a very nourishing moisturiser too for dry/damaged skin.
+
+- Natural Shaving Cream
+Makes about 150ml
+1/3 cup Shea Butter
+1/3 cup Coconut Oil
+1/4 cup Castille soap
+2 teaspoons Baking Soda
+5 drops Geranium Essential Oil (it's one of his favourites and is also great for your skin!)
+5 drops Lavender 
+5 drops Tea Tree
+
+Melt the Shea Butter and Coconut oil in a double boiler (a bowl over a saucepan of boiling water). Once melted, add the Castile soap and Baking Soda then remove from the heat. Let it cool. Whip it until it's light and fluffy. Add the essential oils and whip again. Refrigerate until cool then whip one last time. Transfer to your container of choice. 
+
 - Deodorant 
+Makes about 130ml
+2 Tablespoons Shea Butter
+3 Tablespoons Coconut Oil
+2 Tablespoons Arrowroot Powder
+2 Tablespoons Bicarb
+1 Tablespoon Cornflour 
+6 drops Patchouli
+8 drops Cedarwood
+6 drops Bergamot
+4 drops Ylang Ylang
+4 drops Frankincense 
+3 drops Lime 
 
+Melt the Shea butter and Coconut oil together in either a double boiler or a glass jar sitting in a saucepan of boiling water (being careful to never let the water get into the mixture). 
+Once melted, remove from heat and stir in the Arrowroot powder, Bicarb and Cornflour. Add your mix of essential oils and pour into a suitable container (glass or metal works best). Leave it on the counter or (refrigerate for 10+ minutes) to set before using. 
+
+## Yummy Food
+- Bliss Balls
+- Raw Chocolate
+- Flavoured Kombucha 
+- Sauerkraut 
+- Milk Kefir
+- Dukkah 
