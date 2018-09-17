@@ -16,6 +16,8 @@ author: Cerae
 ---
 
 ![In My Shortss][/images/in-my-shorts.jpg]
+![In My Shortss][images/in-my-shorts.jpg]
+
 
 <img src="/images/in-my-shorts.jpg" alt="In My Shorts">
 
